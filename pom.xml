@@ -2,7 +2,11 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.twitter4j</groupId>
     <artifactId>twitter4j</artifactId>
+<<<<<<< HEAD
     <version>4.0.6</version>
+=======
+    <version>4.0.5</version>
+>>>>>>> 4.0.5
     <packaging>pom</packaging>
     <name>twitter4j</name>
     <description>A Java library for the Twitter API</description>
@@ -20,7 +24,11 @@
         <developerConnection>scm:git:https://github.com/yusuke/twitter4j.git
         </developerConnection>
 
+<<<<<<< HEAD
     <tag>4.0.6</tag>
+=======
+    <tag>4.0.5</tag>
+>>>>>>> 4.0.5
   </scm>
     <developers>
         <developer>
