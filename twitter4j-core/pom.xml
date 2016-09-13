@@ -17,9 +17,15 @@
     </licenses>
     <scm>
         <url>https://github.com/yusuke/twitter4j</url>
+<<<<<<< HEAD
 		<connection>scm:git:git://github.com/yusuke/twitter4j.git</connection>
         <developerConnection>scm:git://github.com/yusuke/twitter4j.git</developerConnection>
 		<tag>4.0.6</tag>
+=======
+        <connection>scm:git:https://github.com/yusuke/twitter4j.git</connection>
+        <developerConnection>scm:https://github.com/yusuke/twitter4j.git
+        </developerConnection>
+>>>>>>> fix scheme
 	</scm>
     <developers>
         <developer>
